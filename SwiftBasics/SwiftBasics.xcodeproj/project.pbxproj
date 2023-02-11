@@ -1,0 +1,102 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		9FDA06A929960B09004DA01B /* Chapter1-はじめに.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter1-はじめに.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06AA29960B29004DA01B /* Chapter2-数値演算子.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter2-数値演算子.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06AB29960B6B004DA01B /* Chapter3-型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter3-型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06AC29960BE4004DA01B /* Chapter4-変数.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter4-変数.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06AD29960C10004DA01B /* Chapter5-型変換.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter5-型変換.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06AE29960CB6004DA01B /* Chapter6-文字列.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter6-文字列.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06AF29960CEE004DA01B /* Chapter7-条件式.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter7-条件式.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06B029960D39004DA01B /* Chapter8-Optional型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter8-Optional型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06B129960DC6004DA01B /* Chapter9-配列.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter9-配列.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06B229960E95004DA01B /* Chapter10-繰り返し処理.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter10-繰り返し処理.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06B329960EA6004DA01B /* Chapter11-メソッド.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter11-メソッド.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06B429960F05004DA01B /* Chapter12-クラス.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter12-クラス.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06B529960F26004DA01B /* Chapter13-プロパティ.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter13-プロパティ.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06B629960F4D004DA01B /* Chapter14-メソッド.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter14-メソッド.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06B729960FC5004DA01B /* Chapter15-イニシャライザ.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter15-イニシャライザ.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		9FDA06A229960ACC004DA01B = {
+			isa = PBXGroup;
+			children = (
+				9FDA06A929960B09004DA01B /* Chapter1-はじめに.playground */,
+				9FDA06AA29960B29004DA01B /* Chapter2-数値演算子.playground */,
+				9FDA06AB29960B6B004DA01B /* Chapter3-型.playground */,
+				9FDA06AC29960BE4004DA01B /* Chapter4-変数.playground */,
+				9FDA06AD29960C10004DA01B /* Chapter5-型変換.playground */,
+				9FDA06AE29960CB6004DA01B /* Chapter6-文字列.playground */,
+				9FDA06AF29960CEE004DA01B /* Chapter7-条件式.playground */,
+				9FDA06B029960D39004DA01B /* Chapter8-Optional型.playground */,
+				9FDA06B129960DC6004DA01B /* Chapter9-配列.playground */,
+				9FDA06B229960E95004DA01B /* Chapter10-繰り返し処理.playground */,
+				9FDA06B329960EA6004DA01B /* Chapter11-メソッド.playground */,
+				9FDA06B429960F05004DA01B /* Chapter12-クラス.playground */,
+				9FDA06B529960F26004DA01B /* Chapter13-プロパティ.playground */,
+				9FDA06B629960F4D004DA01B /* Chapter14-メソッド.playground */,
+				9FDA06B729960FC5004DA01B /* Chapter15-イニシャライザ.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		9FDA06A329960ACC004DA01B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 9FDA06A629960ACC004DA01B /* Build configuration list for PBXProject "SwiftBasics" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9FDA06A229960ACC004DA01B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		9FDA06A729960ACC004DA01B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		9FDA06A829960ACC004DA01B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9FDA06A629960ACC004DA01B /* Build configuration list for PBXProject "SwiftBasics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9FDA06A729960ACC004DA01B /* Debug */,
+				9FDA06A829960ACC004DA01B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9FDA06A329960ACC004DA01B /* Project object */;
+}
