@@ -4,7 +4,7 @@
 // 8.2 unwrappedNumberがnilの場合に初期値が10になるようにして、printしてください
 let optionalNumber: Int? = nil
 //↓この行を修正する
-let unwrappedNumber = optionalNumber
+let unwrappedNumber = optionalNumber // ここにコードを追加
 print(unwrappedNumber)
 
 
