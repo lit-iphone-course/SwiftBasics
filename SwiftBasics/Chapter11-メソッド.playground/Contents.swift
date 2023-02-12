@@ -10,8 +10,8 @@
 /* 11.2 以下の条件を満たす関数を実装してください
     メソッド名：fullName
     引数：
-        - firstName(String)
-        - lastName(String)
+     - 1つ目: String型のfirstNameという引数
+     - 2つ目: String型のlastNameという引数
     戻り値の値：String
     内容：コンソールにfirstNameとlastNameを連結した値と出力する
 */
