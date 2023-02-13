@@ -12,7 +12,7 @@
     引数：
      - 1つ目: String型のfirstNameという引数
      - 2つ目: String型のlastNameという引数
-    戻り値の値：String
+    戻り値の値：なし
     内容：コンソールにfirstNameとlastNameを連結した値と出力する
 */
 // この行の下に入力↓
