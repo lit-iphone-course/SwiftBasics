@@ -8,3 +8,6 @@ let numbers = [1, 3, 5]
 // 6.3 配列coursesに"iPhone"をコンソールに追加してください
 var courses = ["WebD", "WebS", "Android"]
 
+// 6.4 次の３つを含む配列を定義してください
+// 1, 3, 5
+

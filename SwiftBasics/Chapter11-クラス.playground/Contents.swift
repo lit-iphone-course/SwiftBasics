@@ -45,3 +45,4 @@ mentor.slackName() // コンソールに"tt.tanaka"と出力される
 
 
 // 11.5 Chapter11で定義したMentorクラスにfistName, lastName, mentorName, course, seasonを受け取るイニシャライザを実装してください
+
