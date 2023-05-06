@@ -14,11 +14,11 @@
 		9FDA06AD29960C10004DA01B /* Chapter4-型変換.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter4-型変換.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDA06AE29960CB6004DA01B /* Chapter5-文字列の連結と埋め込み.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter5-文字列の連結と埋め込み.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDA06AF29960CEE004DA01B /* Chapter7-条件式.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter7-条件式.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		9FDA06B029960D39004DA01B /* Chapter10-Optional型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter10-Optional型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06B029960D39004DA01B /* [任意]Chapter10-Optional型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "[任意]Chapter10-Optional型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDA06B129960DC6004DA01B /* Chapter6-配列.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter6-配列.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDA06B229960E95004DA01B /* Chapter9-繰り返し.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter9-繰り返し.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDA06B329960EA6004DA01B /* Chapter8-関数.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter8-関数.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		9FDA06B429960F05004DA01B /* Chapter11-クラス.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Chapter11-クラス.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA06B429960F05004DA01B /* [任意]Chapter11-クラス.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "[任意]Chapter11-クラス.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -35,8 +35,8 @@
 				9FDA06AF29960CEE004DA01B /* Chapter7-条件式.playground */,
 				9FDA06B329960EA6004DA01B /* Chapter8-関数.playground */,
 				9FDA06B229960E95004DA01B /* Chapter9-繰り返し.playground */,
-				9FDA06B029960D39004DA01B /* Chapter10-Optional型.playground */,
-				9FDA06B429960F05004DA01B /* Chapter11-クラス.playground */,
+				9FDA06B029960D39004DA01B /* [任意]Chapter10-Optional型.playground */,
+				9FDA06B429960F05004DA01B /* [任意]Chapter11-クラス.playground */,
 			);
 			sourceTree = "<group>";
 		};
