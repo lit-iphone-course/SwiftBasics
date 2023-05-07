@@ -4,7 +4,7 @@
 // 10.2 ??を使ってoptionalIntがnilの場合に初期値10を指定してprintしてください
 
 
-// 10.3 optionalIntに8を代入してください。
+// 10.3 optionalIntに8を代入してください
 
 
 // 10.4 if let文を使ってoptinalIntをアンラップしてprintしてください
