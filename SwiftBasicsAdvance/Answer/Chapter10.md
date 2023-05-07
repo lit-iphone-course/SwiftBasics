@@ -16,46 +16,40 @@ if let unwrapped = optionalNumber {
 }
 
 // 10.4
-func printUnwrappedValue(_ optionalValue: Int?) {
-    guard let unwrappedValue = optionalValue else {
-        print("Value is nil")
-        return
-    }
-    print(unwrappedValue)
+guard let unwrappedValue = optionalNumber else {
+    print("Value is nil")
+    return
 }
-printUnwrappedValue(optionalNumber)
+print(unwrappedValue)
 
 // 10.5
-let optionalText: String? = "Swift"
+let unwrappedText: String? = "Swift"
 print(optionalText)
 
 // 10.6
-let unwrappedText: String? = nil
 print(unwrappedText ?? "Hello")
 
 // 10.7
-if let unwrapped = optionalText {
+let unwrappedText: String? = "text"
+if let unwrapped = unwrappedText {
     print(unwrapped)
 } else {
     print("Value is nil")
 }
 
 // 10.8
-func printUnwrappedText(_ optionalText: String?) {
-    guard let unwrappedText = optionalText else {
-        print("Value is nil")
-        return
-    }
-    print(unwrappedText)
+guard let unwrappedText = optionalText else {
+    print("Value is nil")
+    return
 }
-printUnwrappedText(optionalText)
+print(unwrappedText)
 
 // 10.9
 let optionalDouble: Double? = 2.5
 print(optionalDouble)
 
 // 10.10
-let unwrappedDouble: Double? = nil
+let optionalDouble: Double? = nil
 print(unwrappedDouble ?? 3.14)
 
 // 10.11
@@ -66,13 +60,11 @@ if let unwrapped = optionalDouble {
 }
 
 // 10.12
-func printUnwrappedDouble(_ optionalDouble: Double?) {
-    guard let unwrappedDouble = optionalDouble else {
-        print("Value is nil")
-        return
-    }
-    print(unwrappedDouble)
+guard let unwrappedDouble = optionalDouble else {
+    print("Value is nil")
+    return
 }
+print(unwrappedDouble)
 
 // 10.13
 let numbers: [Int?] = [1, nil, 3, nil, 5]
